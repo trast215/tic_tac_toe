@@ -1,5 +1,7 @@
 # tic tac toe
 
+stack: Vue, JavaScript, HTML
+
 ## Project setup
 ```
 npm install
